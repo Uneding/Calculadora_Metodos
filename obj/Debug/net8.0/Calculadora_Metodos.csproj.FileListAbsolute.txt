@@ -1,0 +1,15 @@
+c:\Users\55319\OneDrive\Área de Trabalho\Trabalho\Calculadora_Metodos\bin\Debug\net8.0\Calculadora_Metodos.exe
+C:\Users\55319\OneDrive\Área de Trabalho\Trabalho\Calculadora_Metodos\bin\Debug\net8.0\Calculadora_Metodos.deps.json
+C:\Users\55319\OneDrive\Área de Trabalho\Trabalho\Calculadora_Metodos\bin\Debug\net8.0\Calculadora_Metodos.runtimeconfig.json
+c:\Users\55319\OneDrive\Área de Trabalho\Trabalho\Calculadora_Metodos\bin\Debug\net8.0\Calculadora_Metodos.dll
+c:\Users\55319\OneDrive\Área de Trabalho\Trabalho\Calculadora_Metodos\bin\Debug\net8.0\Calculadora_Metodos.pdb
+c:\Users\55319\OneDrive\Área de Trabalho\Trabalho\Calculadora_Metodos\obj\Debug\net8.0\Calculadora_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\55319\OneDrive\Área de Trabalho\Trabalho\Calculadora_Metodos\obj\Debug\net8.0\Calculadora_Metodos.AssemblyInfoInputs.cache
+c:\Users\55319\OneDrive\Área de Trabalho\Trabalho\Calculadora_Metodos\obj\Debug\net8.0\Calculadora_Metodos.AssemblyInfo.cs
+c:\Users\55319\OneDrive\Área de Trabalho\Trabalho\Calculadora_Metodos\obj\Debug\net8.0\Calculadora_Metodos.csproj.CoreCompileInputs.cache
+c:\Users\55319\OneDrive\Área de Trabalho\Trabalho\Calculadora_Metodos\obj\Debug\net8.0\Calculadora_Metodos.sourcelink.json
+c:\Users\55319\OneDrive\Área de Trabalho\Trabalho\Calculadora_Metodos\obj\Debug\net8.0\Calculadora_Metodos.dll
+c:\Users\55319\OneDrive\Área de Trabalho\Trabalho\Calculadora_Metodos\obj\Debug\net8.0\refint\Calculadora_Metodos.dll
+c:\Users\55319\OneDrive\Área de Trabalho\Trabalho\Calculadora_Metodos\obj\Debug\net8.0\Calculadora_Metodos.pdb
+C:\Users\55319\OneDrive\Área de Trabalho\Trabalho\Calculadora_Metodos\obj\Debug\net8.0\Calculadora_Metodos.genruntimeconfig.cache
+C:\Users\55319\OneDrive\Área de Trabalho\Trabalho\Calculadora_Metodos\obj\Debug\net8.0\ref\Calculadora_Metodos.dll
